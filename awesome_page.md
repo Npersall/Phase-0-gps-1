@@ -7,4 +7,4 @@
 
 [See my link!](http://daringfireball.net/projects/markdown/syntax)
 
-![us working](image/GPS_1.1_Screenshot.JPG)
+![us working](image/GPS_1.1_Screenshot.JPG "students working Hard (Never getting frustrated)")
