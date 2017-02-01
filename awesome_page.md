@@ -8,3 +8,7 @@
 [See my link!](http://daringfireball.net/projects/markdown/syntax)
 
 ![us working](image/GPS_1.1_Screenshot.JPG)
+
+WE are about to see what a git merge conflict is about 
+This should be fun!
+YAY!
